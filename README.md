@@ -159,4 +159,7 @@ All datasets, business information, and confidential organizational resources us
 I would like to express my sincere gratitude to **CGPI Software Private Limited** for providing me with the opportunity to work on real-world supply chain analytics projects and enhance my technical and analytical skills.
 
 ---
+📄 License :
+
+This repository is shared for educational and portfolio purposes only.
 
